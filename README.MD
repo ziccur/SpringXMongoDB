@@ -33,5 +33,12 @@ El save demana les següents dades:
         "id": "1",
         "nom": "PROVA 1",
         "edat": 1
-    }s
+    }
 ```
+
+Imatges de swagger
+![Exemple de petició POST a Swagger](./media/POST1.png)
+![Exemple de petició POST a Swagger](./media/POST2.png)
+
+Imatge de Terminal
+![Exemple de petició POST a Swagger](./media/POST2.png)
