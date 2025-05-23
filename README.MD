@@ -44,3 +44,33 @@ Imatges de swagger
 Imatge de Terminal
 
 ![Exemple de petició POST a Swagger](./media/POST3.png)
+
+## GET: /api/v1/animals/{id}
+
+Aquest GET només necesita una dada per buscar el registre: `Id`
+
+Aquests son els registres que torna: 
+
+![Exemple de petició POST a Swagger](./media/GET1.png)
+![Exemple de petició POST a Swagger](./media/GET2.png)
+
+## GET: /api/v1/animals/all
+
+Aquest métode GET torna tots els registres per tant no necesita cap entrada, per tal de fer-ho mes dinamic he introduit un registre més manualment i com veiem els torna tots:
+
+![Exemple de petició POST a Swagger](./media/GET3.png)
+
+## GET: /api/v1/animals/search
+
+Aquest métode es propi i es per buscar registres per el nom amb regex, per demostar-go ensenyare diversos casos:
+
+En el primer cas buscarem noms que acabin per 2:
+
+![Exemple de petició POST a Swagger](./media/GET4.png)
+![Exemple de petició POST a Swagger](./media/GET5.png)
+
+En el següent cas buscarem a tots els noms que acabin amb un número:
+
+![Exemple de petició POST a Swagger](./media/GET6.png)
+![Exemple de petició POST a Swagger](./media/GET7.png)
+
