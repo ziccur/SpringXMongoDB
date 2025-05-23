@@ -22,3 +22,16 @@ Com s'explica en el PDF Mono es una classe que ens permet guardar valors, el pro
 ## Què és record? Un record utilitza getters i setters? Justifiqueu la resposta
 
 Un record és una classe Java immutable que defineix dades de forma concisa. No utilitza setters perquè és immutable. Els getters són implicits, però sense el prefix "get". Això garanteix que les dades no es modifiquin després de la creació. Així doncs un recod no té ni usa setters i no cal que generis getters ja que aquests son implicits i els pots consultar de manera predeterminada.
+
+# PROVES AMB SWAGGER
+
+## POST: /api/v1/animals/save
+
+El save demana les següents dades: 
+```
+    {
+        "id": "1",
+        "nom": "PROVA 1",
+        "edat": 1
+    }s
+```
