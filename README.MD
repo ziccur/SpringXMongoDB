@@ -97,4 +97,5 @@ Proves per swagger:
 ![Exemple de petició DELETE a Swagger](./media/DELETE2.png)
 
 Prova per terminal
+
 ![Exemple de petició DELETE a Swagger](./media/DELETE3.png)
