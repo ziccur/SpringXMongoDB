@@ -74,3 +74,11 @@ En el següent cas buscarem a tots els noms que acabin amb un número:
 ![Exemple de petició POST a Swagger](./media/GET6.png)
 ![Exemple de petició POST a Swagger](./media/GET7.png)
 
+## PUT: /api/v1/animals/update
+
+Aquest métode ens permet actualitzar registres indicant la id del registre, en aquest cas li canviarem el nom al registre 1:
+
+Prova per swagger
+
+![Exemple de petició PUT a Swagger](./media/PUT1.png)
+![Exemple de petició PUT a Swagger](./media/PUT2.png)
