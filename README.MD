@@ -37,8 +37,10 @@ El save demana les següents dades:
 ```
 
 Imatges de swagger
+
 ![Exemple de petició POST a Swagger](./media/POST1.png)
 ![Exemple de petició POST a Swagger](./media/POST2.png)
 
 Imatge de Terminal
+
 ![Exemple de petició POST a Swagger](./media/POST2.png)
