@@ -1,4 +1,4 @@
-package com.iticbcn.webflux.apimongo.config;
+package iticbcn.m6.MongoDB.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
