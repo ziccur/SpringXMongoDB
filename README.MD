@@ -82,3 +82,19 @@ Prova per swagger
 
 ![Exemple de petició PUT a Swagger](./media/PUT1.png)
 ![Exemple de petició PUT a Swagger](./media/PUT2.png)
+
+Prova per terminal
+
+![Exemple de petició PUT a Swagger](./media/PUT3.png)
+
+## DELETE: /api/v1/animals/{id}
+
+Aquest endpoint elimina el nostre registre buscantlo per la id que li indiquem, ho probarem amb el nostre registre amb id 1:
+
+Proves per swagger:
+
+![Exemple de petició DELETE a Swagger](./media/DELETE1.png)
+![Exemple de petició DELETE a Swagger](./media/DELETE2.png)
+
+Prova per terminal
+![Exemple de petició DELETE a Swagger](./media/DELETE3.png)
