@@ -43,4 +43,4 @@ Imatges de swagger
 
 Imatge de Terminal
 
-![Exemple de petició POST a Swagger](./media/POST2.png)
+![Exemple de petició POST a Swagger](./media/POST3.png)
