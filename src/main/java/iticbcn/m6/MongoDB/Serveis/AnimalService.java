@@ -46,4 +46,8 @@ public class AnimalService {
     public Mono<Void> delete(String id) {
         return animalRepo.deleteById(id);
     }
+
+    public Flux<Animal> findByNomRegex(String regex) {
+        return animalRepo.findByNomRegex(regex);
+    }
 }
